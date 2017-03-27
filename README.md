@@ -10,3 +10,6 @@ cs[( cambiara brackets cuadrados por parentesis
 ## nerdtree
 * para usar nerdtree configure el acceso como CtrlN
 de esta manera se abre el buscador de archivos
+
+## pantalla completa terminal
+* atajo de pantalla conpleta CtrlF
